@@ -1,4 +1,4 @@
-# Space Capades
+# "Space Capades" optimization
 ### A graduation animated mock-commercial 
 Some scripts to get the short-movie pipeline optimized.
 
