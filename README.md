@@ -7,7 +7,7 @@ The scripts divide into two main groups:
 1. ShotGrid scripts
 2. Rigging scripts
 
-### 1. ShotGrid scripts 
+### 1. Shotgun scripts 
 #### Speeding up the Production workflow
 These scripts use the official Python-based API, maintained by ShotGrid Software. It is a collection of Python scripts reducing the number of repetitive tasks.
 
