@@ -1,5 +1,5 @@
 # "Space Capades" optimization
-### An animated mock-commercial graduation short film (it's long)
+### A graduation animated mock-commercial short film (it's long)
 Some scripts to get the short-movie pipeline optimized.
 
 ## Structure
