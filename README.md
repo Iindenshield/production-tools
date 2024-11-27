@@ -9,7 +9,7 @@ Some scripts to optimize the animation pipeline and automate some Production's t
 > 
 > 3. Rigging scripts 
 
-## Google App Scripts
+## 1. Google App Scripts
 
 
 ## 2. ShotGrid scripts 
