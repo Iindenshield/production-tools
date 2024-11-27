@@ -2,15 +2,13 @@
 Some scripts to optimize the animation pipeline and automate some Production's tasks.
 > Please, if you have suggestions feel free to comment. Thanks for checking out my repository
 
-> ## Contents
-> 1. Google App Scripts
-> 
-> 2. ShotGrid scripts
-> 
-> 3. Rigging scripts 
+## Contents
+1. Google App Scripts
+2. ShotGrid scripts
+3. Rigging scripts 
 
-## 1. Google App Scripts
-
+## 1. Google Apps Script for Google Forms Automation
+:arrow_right_hook: Code analysis: [Google Apps Script for Google Forms Automation Wiki](https://github.com/Iindenshield/production-tools/wiki/Google-Apps-Script-for-Google-Forms-Automation)
 
 ## 2. ShotGrid scripts 
 ### Speeding up the Production workflow
