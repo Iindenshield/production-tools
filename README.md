@@ -1,8 +1,6 @@
-# "Space Capades" optimization
-### A graduation animated mock-commercial (it's long)
-Some scripts to optimize the animation pipeline.
-
-**_Disclaimer: These are STUDY NOTES. Please, if you have suggestions feel free to comment. Anyway, thanks for checking out my repository_**
+# Production tools
+Some scripts to optimize the animation pipeline and automate some Production's tasks.
+> Please, if you have suggestions feel free to comment. Thanks for checking out my repository
 
 ## Structure
 The scripts divide into two main groups:
